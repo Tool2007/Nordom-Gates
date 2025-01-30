@@ -1,0 +1,6 @@
+http://user:pass@host:port
+https://user:pass@host:port
+socks4://user:pass@host:port
+socks5://user:pass@host:port
+
+1 proxy 1 user
